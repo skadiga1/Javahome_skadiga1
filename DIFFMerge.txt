@@ -1,1 +1,2 @@
-Demo DiffMerge tool
+Testing the DiffMerge File
+Merge issue happens
