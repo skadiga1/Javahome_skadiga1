@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 Testing the DiffMerge File
 Merge issue happens
-=======
 Testing the DIFFMerge File
 Merge testing going on
 >>>>>>> ab54aa0448a5fbc4cece8fac50e95630d5037b30
